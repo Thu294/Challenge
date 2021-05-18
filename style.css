@@ -1,4 +1,4 @@
-** {
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -101,7 +101,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 0px;
-    margin: auto;
+    margin-right: auto;
 
 }
 
